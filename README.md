@@ -3,4 +3,4 @@
 <p>Here, I presents a simpel Testimonial using HTML CSS SWIPER JS</p>
 
 <h2>See What i created:</h2>
-<a href="https://testimonials-using-html-css-swiper-js.vercel.app/">Please Click Me</a>
+<a href="https://testimonials-using-html-css-swiper-js.vercel.app/" target="_blank">Please Click Me</a>
